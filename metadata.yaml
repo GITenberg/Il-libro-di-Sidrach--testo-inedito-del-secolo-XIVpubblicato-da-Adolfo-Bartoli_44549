@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '42809'
     url: http://www.gutenberg.org/2009/agents/42809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44549#Il-libro-di-Sidrach--testo-inedito-del-secolo-XIVpubblicato-da-Adolfo-Bartoli
 gutenberg_bookshelf: IT Scienza
 gutenberg_issued: '2013-12-31'
 gutenberg_type: Text
