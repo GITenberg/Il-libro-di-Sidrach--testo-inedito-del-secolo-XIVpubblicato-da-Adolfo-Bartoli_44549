@@ -1,0 +1,38 @@
+_repo: Il-libro-di-Sidrach--testo-inedito-del-secolo-XIVpubblicato-da-Adolfo-Bartoli_44549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44549-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sidrac, active 13th century
+    aliases:
+    - Sidrach
+    - Sydrach
+    - Sydrac
+    gutenberg_agent_id: '42793'
+    url: http://www.gutenberg.org/2009/agents/42793
+  editor:
+    agent_name: Bartoli, Adolfo
+    birthdate: 1833
+    deathdate: 1894
+    gutenberg_agent_id: '42809'
+    url: http://www.gutenberg.org/2009/agents/42809
+description: ''
+gutenberg_bookshelf: IT Scienza
+gutenberg_issued: '2013-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44549'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science, Medieval -- Early works to 1800'
+- !lcc 'PQ'
+- !lcsh 'Encyclopedias and dictionaries -- Early works to 1600'
+- !lcsh 'Civilization, Medieval -- Early works to 1800'
+title: "Il libro di Sidrach: testo inedito del secolo XIV\r\npubblicato da Adolfo\
+  \ Bartoli"
+url: http://www.gutenberg.org/ebooks/44549
